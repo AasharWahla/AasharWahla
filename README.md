@@ -39,6 +39,20 @@
 <img align="left" alt="SQL" width="26px" src="https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?ssl=1" />
 <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
+<br />
+<br>
+
+---
+
+### 📕 My Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://dev.to/aasharwahla)
+
+---
+
 <!--
 **AasharWahla/AasharWahla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
