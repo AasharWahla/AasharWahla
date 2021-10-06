@@ -59,3 +59,13 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/AasharWahla
 [instagram]: https://instagram.com/aashar.wahla
 [linkedin]: https://linkedin.com/in/AasharWahla
+
+<br>
+<br>
+
+<br>
+<br>
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/AasharWahla/count.svg" alt ="Loading">
