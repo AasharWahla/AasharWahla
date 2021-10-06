@@ -47,7 +47,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Flutter Animation | Building Beautiful Slider Animation | Aashar Wahla](https://www.youtube.com/watch?v=rptR0aKgIaE)
+- [Building Beautiful Ecommerce App UI in Flutter | Part 3 | Aashar Wahla](https://www.youtube.com/watch?v=X8A_TKNy9ks)
+- [Flutter and Firebase Course Introduction | Part 02 | Aashar Wahla](https://www.youtube.com/watch?v=q0NA324QNdo)
+- [Flutter and Firebase Course Introduction | Part 01 | Aashar Wahla](https://www.youtube.com/watch?v=QZWFqhgAFbg)
+- [Flutter and Firebase Course Introduction | Part 0 | Aashar Wahla](https://www.youtube.com/watch?v=EU92bqMqL9E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/aasharwahla)
