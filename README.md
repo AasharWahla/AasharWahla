@@ -63,6 +63,7 @@
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Why Flutter?](https://dev.to/aasharwahla/why-flutter-36n)
 - [How I got my first Flutter freelance job?](https://dev.to/aasharwahla/how-i-got-my-first-flutter-freelance-job-2ml6)
 - [Three months with M1 Macbook Air as a mobile developer](https://dev.to/aasharwahla/three-months-with-m1-macbook-air-as-a-mobile-developer-50cn)
@@ -71,6 +72,8 @@
 ➡️ [more blog posts...](https://dev.to/aasharwahla)
 
 ---
+
+## ![Aashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AasharWahla&show_icons=true&theme=algolia&count_private=true)
 
 <!--
 **AasharWahla/AasharWahla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,9 +95,6 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/AasharWahla
 [instagram]: https://instagram.com/aashar.wahla
 [linkedin]: https://linkedin.com/in/AasharWahla
-
-<br>
-<br>
 
 <br>
 <br>
