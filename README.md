@@ -63,7 +63,6 @@
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Why Flutter?](https://dev.to/aasharwahla/why-flutter-36n)
 - [How I got my first Flutter freelance job?](https://dev.to/aasharwahla/how-i-got-my-first-flutter-freelance-job-2ml6)
 - [Three months with M1 Macbook Air as a mobile developer](https://dev.to/aasharwahla/three-months-with-m1-macbook-air-as-a-mobile-developer-50cn)
