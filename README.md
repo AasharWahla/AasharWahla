@@ -63,6 +63,7 @@
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap to learn Flutter Efficiently](https://dev.to/aasharwahla/roadmap-to-learn-flutter-efficiently-27l9)
 - [My Experience Using Flutter Web?](https://dev.to/aasharwahla/my-experience-using-flutter-web-314h)
 - [Why Flutter?](https://dev.to/aasharwahla/why-flutter-36n)
 - [How I got my first Flutter freelance job?](https://dev.to/aasharwahla/how-i-got-my-first-flutter-freelance-job-2ml6)
