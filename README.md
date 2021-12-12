@@ -63,11 +63,11 @@
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting my App Startup Journey!](https://dev.to/aasharwahla/starting-my-app-startup-journey-336k)
 - [Roadmap to learn Flutter Efficiently](https://dev.to/aasharwahla/roadmap-to-learn-flutter-efficiently-27l9)
 - [My Experience Using Flutter Web?](https://dev.to/aasharwahla/my-experience-using-flutter-web-314h)
 - [Why Flutter?](https://dev.to/aasharwahla/why-flutter-36n)
 - [How I got my first Flutter freelance job?](https://dev.to/aasharwahla/how-i-got-my-first-flutter-freelance-job-2ml6)
-- [Three months with M1 Macbook Air as a mobile developer](https://dev.to/aasharwahla/three-months-with-m1-macbook-air-as-a-mobile-developer-50cn)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aasharwahla)
