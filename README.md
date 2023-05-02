@@ -7,7 +7,7 @@
 
 <br>
 
-# I am a Student, Developer and Teacher!
+# I am a Developer and Instructor!
 
 - 📖 Currently learning everything! From Web to Mobile to AI.
 - 👯 I'm looking to collaborate with other awesome developers.
